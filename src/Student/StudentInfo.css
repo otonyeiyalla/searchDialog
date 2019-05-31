@@ -1,0 +1,36 @@
+img {
+    border: solid;
+    border-radius: 50%;
+    border-width: 1px;
+    height: 80px;
+    width: 80px;
+}
+
+.btn-flat i {
+    font-size: 2.5rem;
+    line-height: inherit;
+    color: gray;
+}
+
+
+.Container {
+    display: block;
+    padding: 1px;
+}
+
+.Header_name {
+    text-transform: "uppercase";
+    font-size: "30px";
+    font-weight: "bold"
+}
+
+/*
+table {
+    width: 100%;
+    /*border: solid indigo 2px; */
+/*
+    border-radius: 2%;
+    padding-left: 15px;
+
+}
+*/
