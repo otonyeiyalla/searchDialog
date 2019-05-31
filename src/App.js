@@ -22,7 +22,7 @@ class App extends Component {
   };
 
   async componentDidMount() {
-    const url = 'https://www.hatchways.io/api/assessment/students';
+    const url = 'Enter a url with firstName, lastName, picture and grades';
     //const res = await fetch(url);
     //const data = await res.json();
 
